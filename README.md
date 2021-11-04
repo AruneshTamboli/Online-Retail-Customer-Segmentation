@@ -1,5 +1,14 @@
 # Online-Retail-Customer-Segmentation
 
+# About this Project:
+
+This is a Unsupervised Machine learning Capstone project.
+
+This project is done for Almabetter pro Program.
+
+This project aims to identify major customer segments on a transnational data set for a UK-based online retail.
+
+
 # Problem Description :
 
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
@@ -38,3 +47,4 @@ Initially, the data is subject to important stages in an analytics pipeline: exp
 Then, the unsupervised classification technique, K-means clustering algorithm, is used to determine the ideal segments of customers. Silhouette analysis and related cluster visualizations are leveraged to deduce the optimum value of "K" (number of clusters) in the algorithm.
 
 The observations from the results are elaborately discussed before reaching the conclusion from the business perspective.
+
