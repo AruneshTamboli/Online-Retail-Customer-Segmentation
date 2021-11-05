@@ -48,3 +48,20 @@ Then, the unsupervised classification technique, K-means clustering algorithm, i
 
 The observations from the results are elaborately discussed before reaching the conclusion from the business perspective.
 
+# Conclusion:
+
+# Descriptive Analysis
+
+The data exploration of Online customer segmentation dataset shows :
+
+Missing and duplicate values were found.
+
+Most of the purchases are from the United Kingdom.
+
+Most of the customers have purchased items on Thursday, Wednesday, Tuesday.
+
+Most of the customers have purchased items in November, October, December, and the least number of purchases in April, January, February.
+
+Most of the customers purchase in the afternoon time. The 12th hour of the day is a peak for purchasing items.
+
+After applying various algorithms, optimal number of cluster is equal to 2.
