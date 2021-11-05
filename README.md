@@ -65,3 +65,6 @@ Most of the customers have purchased items in November, October, December, and t
 Most of the customers purchase in the afternoon time. The 12th hour of the day is a peak for purchasing items.
 
 After applying various algorithms, optimal number of cluster is equal to 2.
+![Screenshot 2021-11-05 162547](https://user-images.githubusercontent.com/88345564/140500121-965c0c4c-94d4-4f75-a9be-51f5b2953559.png)
+
+
