@@ -65,6 +65,7 @@ Conclusions
 
 ### Model Analysis
 ![Screenshot 2021-11-05 162547](https://user-images.githubusercontent.com/88345564/140500121-965c0c4c-94d4-4f75-a9be-51f5b2953559.png)
+
 **After applying various algorithms, optimal number of cluster is equal to 2.**
 
 
